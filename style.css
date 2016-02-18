@@ -13,3 +13,17 @@ body {
 li {
   margin-bottom: 10px;
 }
+
+h1 {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+#userinfo {
+  margin-bottom: 15px;
+  font-size: 13px;
+}
+
+#logout {
+  margin-left: 10px;
+}
