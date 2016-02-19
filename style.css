@@ -27,3 +27,8 @@ h1 {
 #logout {
   margin-left: 10px;
 }
+
+hr {
+  border: 0px;
+  border-bottom: 1px solid #DDD;
+}
