@@ -38,6 +38,7 @@ htmljs@1.0.6-beta.11
 http@1.1.2-beta.11
 id-map@1.0.4
 jquery@1.11.5-beta.11
+kadira:dochead@1.4.0
 kadira:flow-router-ssr@3.11.0
 launch-screen@1.0.6-beta.11
 livedata@1.0.15
